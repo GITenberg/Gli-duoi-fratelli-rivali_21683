@@ -1,0 +1,33 @@
+_repo: Gli-duoi-fratelli-rivali_21683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porta, Giambattista della
+    deathdate: 1615
+    gutenberg_agent_id: '24859'
+    url: http://www.gutenberg.org/2009/agents/24859
+    wikipedia: http://en.wikipedia.org/wiki/Giambattista_della_Porta
+  editor:
+    agent_name: Spampanato, Vincenzo
+    birthdate: 1873
+    deathdate: 1928
+    gutenberg_agent_id: '24860'
+    url: http://www.gutenberg.org/2009/agents/24860
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2007-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21683'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Drama'
+title: Gli duoi fratelli rivali
+url: http://www.gutenberg.org/ebooks/21683
