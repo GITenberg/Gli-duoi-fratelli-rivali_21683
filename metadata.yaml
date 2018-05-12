@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '24860'
     url: http://www.gutenberg.org/2009/agents/24860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21683#Gli-duoi-fratelli-rivali
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2007-06-05'
 gutenberg_type: Text
